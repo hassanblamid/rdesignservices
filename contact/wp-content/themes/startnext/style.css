@@ -1,0 +1,12 @@
+.grid-sizer,
+.grid-item {
+    width: 33.333%
+}
+
+.navbar-nav a[title='Add a menu'] {
+    visibility: hidden
+}
+
+span.wpcf7-form-control-wrap.gdpr a {
+    color: #44ce6f
+}
